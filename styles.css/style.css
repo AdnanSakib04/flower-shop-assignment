@@ -213,5 +213,53 @@ background-color: #E55473;
     justify-content: center;
     gap: 24px;
     margin-top: 48px;
+    margin-bottom: 128px;
 
+
+}
+
+
+
+/* latest-deals section  */
+.latest-deals-container{
+    text-align: center;
+    width: 1440px;
+height: 449px;
+margin: auto;
+    background-image: url("../Flower Asset/Rectangle\ 9.png");
+}
+.title-latest-deals{
+    font-size: 40px;
+font-style: normal;
+font-weight: 800;
+padding-top: 122px;
+}
+
+.description-latest-deals{
+    margin-top: 16px;
+    margin-bottom: 48px;
+}
+
+input{
+    width: 700px;
+
+border-radius: 8px;
+background: #FFF;
+border: none;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+padding-top: 23px;
+padding-bottom: 22px;
+padding-left: 22px;
+
+}
+
+.btn-subscribe{
+    margin-left: 16px;
+    width: 150px;
+    height: 64px;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
 }

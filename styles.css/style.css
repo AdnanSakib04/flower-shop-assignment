@@ -205,7 +205,6 @@ font-weight: 800;
 .insta-flower-box{
     width: 342px;
 height: 396px;
-background-color: #E55473;
 }
 
 .insta-flowers-container{
@@ -226,7 +225,7 @@ background-color: #E55473;
     width: 1440px;
 height: 449px;
 margin: auto;
-    background-image: url("../Flower Asset/Rectangle\ 9.png");
+    background-image: url("../images/rectangle9.png");
 }
 .title-latest-deals{
     font-size: 40px;
